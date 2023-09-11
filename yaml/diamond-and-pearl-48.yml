@@ -1,0 +1,95 @@
+---
+id: dp1-48
+name: Elekid
+supertype: Pokémon
+subtypes:
+- Basic
+level: '6'
+hp: '40'
+types:
+- Lightning
+evolvesTo:
+- Electabuzz
+abilities:
+- name: Baby Evolution
+  text: Once during your turn (before your attack), you may put Electabuzz from your
+    hand onto Elekid (this counts as evolving Elekid) and remove all damage counters
+    from Elekid.
+  type: Poké-Power
+attacks:
+- name: Outlet
+  cost: []
+  convertedEnergyCost: 0
+  damage: ''
+  text: Search your deck for a Lightning Energy card, show it to your opponent, and
+    put it into your hand. Shuffle your deck afterward.
+weaknesses:
+- type: Fighting
+  value: "+10"
+resistances:
+- type: Metal
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: dp1
+  name: Diamond & Pearl
+  series: Diamond & Pearl
+  printedTotal: 130
+  total: 130
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DP
+  releaseDate: 2007/05/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp1/symbol.png
+    logo: https://images.pokemontcg.io/dp1/logo.png
+number: '48'
+artist: Kagemaru Himeno
+rarity: Uncommon
+flavorText: It generates electricity by whirling its arms. However, it can't store
+  the energy it makes.
+nationalPokedexNumbers:
+- 239
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp1/48.png
+  large: https://images.pokemontcg.io/dp1/48_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp1-48
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.8
+      mid: 1.45
+      high: 999.99
+      market: 1.54
+      directLow: 0.94
+    reverseHolofoil:
+      low: 1.5
+      mid: 5.0
+      high: 8.92
+      market: 8.77
+      directLow: 4.13
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp1-48
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.71
+    lowPrice: 0.05
+    trendPrice: 0.74
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 1.01
+    lowPriceExPlus: 0.28
+    avg1: 0.95
+    avg7: 0.79
+    avg30: 0.59
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.68
+    reverseHoloAvg30: 1.13

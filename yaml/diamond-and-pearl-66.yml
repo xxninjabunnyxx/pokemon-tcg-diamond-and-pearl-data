@@ -1,0 +1,90 @@
+---
+id: dp1-66
+name: Unown B
+supertype: Pokémon
+subtypes:
+- Basic
+level: '12'
+hp: '50'
+types:
+- Psychic
+abilities:
+- name: BOUNCE
+  text: Once during your turn (before your attack), if Unown B is on your Bench, you
+    may flip a coin. If heads, discard all cards attached to any 1 of your Unown and
+    shuffle that Pokémon back into your deck.
+  type: Poké-Power
+attacks:
+- name: Hidden Power
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "+10"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: dp1
+  name: Diamond & Pearl
+  series: Diamond & Pearl
+  printedTotal: 130
+  total: 130
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DP
+  releaseDate: 2007/05/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/dp1/symbol.png
+    logo: https://images.pokemontcg.io/dp1/logo.png
+number: '66'
+artist: Nakaoka
+rarity: Uncommon
+flavorText: Shaped like ancient writing, it is a huge mystery whether language or
+  UNOWN came first.
+nationalPokedexNumbers:
+- 201
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp1/66.png
+  large: https://images.pokemontcg.io/dp1/66_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp1-66
+  updatedAt: 2023/09/11
+  prices:
+    normal:
+      low: 0.2
+      mid: 0.5
+      high: 1.99
+      market: 0.48
+      directLow: 0.2
+    reverseHolofoil:
+      low: 1.34
+      mid: 1.49
+      high: 2.32
+      market: 1.5
+      directLow: 1.42
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp1-66
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 0.21
+    lowPrice: 0.02
+    trendPrice: 0.2
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.7
+    reverseHoloLow: 0.29
+    reverseHoloTrend: 0.82
+    lowPriceExPlus: 0.05
+    avg1: 0.45
+    avg7: 0.21
+    avg30: 0.24
+    reverseHoloAvg1: 0.9
+    reverseHoloAvg7: 0.83
+    reverseHoloAvg30: 0.92
